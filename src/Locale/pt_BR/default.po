@@ -1,0 +1,21 @@
+msgid "Users"
+msgstr "Usuários"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "name"
+msgstr "Nome"
+
+msgid "Products"
+msgstr "Produtos"
+
+
+
+
